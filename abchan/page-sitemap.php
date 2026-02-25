@@ -83,7 +83,13 @@
 					</li>
 				</ul>
 
-				<li class="p-link-bar"><a href="<?php echo esc_url(home_url('/')); ?>kouseidoka/">資源量推定等高精度化推進事業<span class="c-sq-btn"></span></a></li>
+				<li class="p-link-bar"><a href="<?php echo esc_url(home_url('/')); ?>kanrenjigyou/">関連事業<span class="c-sq-btn"></span></a></li>
+				<ul class="p-list p-list--arrow p-3">
+					<li><a href="<?php echo esc_url(home_url('/')); ?>kanrenjigyou/kouseidoka_2024/">資源量推定等高精度化推進事業（2024）</a></li>
+					<li><a href="<?php echo esc_url(home_url('/')); ?>kanrenjigyou/kouseidoka_2016-2023/">資源量推定等高精度化推進事業（2016~2023）</a></li>
+					<li><a href="<?php echo esc_url(home_url('/')); ?>kanrenjigyou/hendouyouin/">資源変動要因分析調査事業（2011~2015）</a></li>
+					<li><a href="<?php echo esc_url(home_url('/')); ?>kanrenjigyou/doukouyouin/">資源動向要因分析調査（2006~2010）</a></li>
+				</ul>
 
 				<li class="p-link-bar"><a href="<?php echo esc_url(home_url('/')); ?>contact/">お問い合わせ<span class="c-sq-btn"></span></a></li>
 

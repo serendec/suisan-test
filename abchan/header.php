@@ -75,7 +75,7 @@
 					<li><a href="<?php echo esc_url(home_url('/')); ?>about/" class="js-waves">水産資源評価とは</a></li>
 					<li><a href="<?php echo esc_url(home_url('/')); ?>hyouka/" class="js-waves">水産資源評価結果</a></li>
 					<li><a href="<?php echo esc_url(home_url('/')); ?>gk/" class="js-waves">漁海況予報</a></li>
-					<li><a href="<?php echo esc_url(home_url('/')); ?>kouseidoka/" class="js-waves">高精度化事業 </a></li>
+					<li><a href="<?php echo esc_url(home_url('/')); ?>kanrenjigyou/" class="js-waves">関連事業</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -95,7 +95,7 @@
 						<li><a href="<?php echo esc_url(home_url('/')); ?>about/" class="js-waves">水産資源評価とは</a></li>
 						<li><a href="<?php echo esc_url(home_url('/')); ?>hyouka/" class="js-waves">水産資源評価結果</a></li>
 						<li><a href="<?php echo esc_url(home_url('/')); ?>gk/" class="js-waves">漁海況予報</a></li>
-						<li><a href="<?php echo esc_url(home_url('/')); ?>kouseidoka/" class="js-waves">高精度化事業</a></li>
+						<li><a href="<?php echo esc_url(home_url('/')); ?>kanrenjigyou/" class="js-waves">関連事業</a></li>
 						<li><a href="<?php echo esc_url(home_url('/')); ?>contact/" class="js-waves">お問い合わせ</a></li>
 						<li><a href="<?php echo esc_url(home_url('/')); ?>sitemap/" class="js-waves">サイトマップ</a></li>
 						<li><a href="<?php echo esc_url(home_url('/')); ?>update/" class="js-waves">更新情報</a></li>

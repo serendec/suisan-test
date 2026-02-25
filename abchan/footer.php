@@ -37,7 +37,7 @@
 					<ul>
 						<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>hyouka/">水産資源評価結果</a></li>
 						<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>gk/">漁海況予報</a></li>
-						<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>kouseidoka/">高精度化事業</a></li>
+						<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>kanrenjigyou/">関連事業</a></li>
 					</ul>
 				</div>
 				<div class="col-md-4">
